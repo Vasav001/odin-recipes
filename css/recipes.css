@@ -1,0 +1,35 @@
+body {
+    background-color: blanchedalmond;
+}
+
+h1 {
+    text-align: center;
+    background-color: blueviolet;
+}
+
+img {
+    width: 400px;
+    height: auto;
+}
+
+h2 {
+    font-family: Verdana,sans-serif;
+    color: darkgoldenrod;
+}
+
+p {
+    font-size: 18px;
+    color: darkred;
+}
+
+ol,ul {
+    font-size: 19px;
+}
+
+ul {
+    color: crimson;
+}
+
+ol {
+    color: brown;
+}
