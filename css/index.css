@@ -2,9 +2,26 @@ body {
     background-color: rgb(255, 255, 0);
 }
 
-ul{
+div {
+    background-color:goldenrod;
+    box-sizing: content-box;
+    margin: 25px;
+    padding: 15px;
+    border: 2px dotted black;
+    width: 234px;
+}
+
+div div{
     font-size: 22px;
-    color: red;
+    background-color: beige;
+    display: block;
+    border: 10px solid gold;
+    padding: 10px;
+    margin: 20px 15px;
+    height: 70px;
+    width: 200px;
+    text-align: center;
+    box-sizing: border-box;
 }
 
 h1 {
